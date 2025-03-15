@@ -1,0 +1,22 @@
+1742067285467	geckodriver	INFO	Listening on 127.0.0.1:53865
+1742067299399	geckodriver	INFO	Listening on 127.0.0.1:59085
+1742069318402	geckodriver	INFO	Listening on 127.0.0.1:33039
+touch: cannot touch '/home/alihassan/snap/firefox/common/.cache/desktop-runtime-date': No such file or directory
+1742069320451	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ng" "--remote-debugging-port" "58337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilej7voxi"
+*** You are running in headless mode.
+Gtk-Message: 01:08:41.200: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1742069450491	geckodriver::browser	ERROR	Failed to stop browser process: Permission denied (os error 13)
+1742069450492	geckodriver::marionette	ERROR	Failed to stop browser: WebDriverError { error: UnknownError, message: "Permission denied (os error 13)", stack: "", data: None, delete_session: false }
+1742069635516	geckodriver	INFO	Listening on 127.0.0.1:47467
+1742069636291	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ng" "--remote-debugging-port" "54091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekRedwZ"
+*** You are running in headless mode.
+Gtk-Message: 01:13:56.807: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1742069766301	geckodriver::browser	ERROR	Failed to stop browser process: Permission denied (os error 13)
+1742069766301	geckodriver::marionette	ERROR	Failed to stop browser: WebDriverError { error: UnknownError, message: "Permission denied (os error 13)", stack: "", data: None, delete_session: false }
+1742070165072	geckodriver	INFO	Listening on 127.0.0.1:33331
+1742070166243	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ng" "--remote-debugging-port" "32909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGWj55D"
+*** You are running in headless mode.
+Gtk-Message: 01:22:46.804: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
